@@ -1,5 +1,5 @@
-# flutter_starter_kit
- It's a clean start for your new Flutter app with Flutter Starter Kit
+FLUTTER STARTER KİT 
+It's a clean start for your new Flutter app with Flutter Starter Kit
 
 ADDED THIS SPECS:
 
@@ -17,7 +17,7 @@ Effective DART : I have added what guides you to use the dart language effective
 For remove this helps: 
 delete 'effective_dart: any' line in pubspec.yaml and whole analysis_options.yaml file 
 
-CLEAN START : Your first impotarnt start pages in these folders:
+CLEAN START : Your first impotant start pages in these folders:
 /core/init/app_name_here.dart
 and 
 your main page is in:
