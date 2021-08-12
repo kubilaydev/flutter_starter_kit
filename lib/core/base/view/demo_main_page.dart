@@ -6,10 +6,11 @@ import '../../components/main_page/signin_appbar.dart';
 ///
 class DemoHomePage extends StatefulWidget {
   ///
-  DemoHomePage({Key? key, required this.title}) : super(key: key);
+  DemoHomePage({
+    Key? key,
+  }) : super(key: key);
 
   ///
-  final String title;
 
   @override
   _DemoHomePageState createState() => _DemoHomePageState();
@@ -41,7 +42,7 @@ class _DemoHomePageState extends State<DemoHomePage> {
               padding: appNameMainEdge,
 
               child: Text(
-                "OKEY OKEY!, I'll count! :",
+                "OKEY OKEY! I'll count!",
 
                 /// YOU CAN USE YOUR THEME settings where appTheme BY
                 /// ' Theme.of(context).textTheme.headline1, '

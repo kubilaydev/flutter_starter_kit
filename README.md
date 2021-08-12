@@ -3,7 +3,9 @@
 
 ADDED THIS SPECS:
 
-FOLDERS : I added folders suit for atomic pattern
+FOLDERS : I added folders suit for atomic pattern.
+
+THEME: I added theme file for you. You can change it according to your own tastes.
 
 FONTS : I added some fonts for you. You can add yours very easy. Thank me later.
 
@@ -15,5 +17,8 @@ Effective DART : I have added what guides you to use the dart language effective
 For remove this helps: 
 delete 'effective_dart: any' line in pubspec.yaml and whole analysis_options.yaml file 
 
-CLEAN START and Fallowing pages : main.dart file and your main app dart file has min line 
-for easyly readable.
+CLEAN START : Your first impotarnt start pages in these folders:
+/core/init/app_name_here.dart
+and 
+your main page is in:
+core/base/view/demo_main_page.dart

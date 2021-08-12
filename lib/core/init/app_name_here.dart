@@ -13,7 +13,7 @@ class AppNameHere extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       theme: appTheme(),
-      home: DemoHomePage(title: 'Flutter Demo Home Page'),
+      home: DemoHomePage(),
     );
   }
 }
