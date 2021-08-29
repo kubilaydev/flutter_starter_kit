@@ -56,3 +56,14 @@
 
 # Thanks ! 
 
+<<<<<<< Updated upstream
+=======
+CLEAN START : Your first impotarnt start pages in these folders:
+/core/init/app_name_here.dart
+and 
+your main page is in:
+core/base/view/demo_main_page.dart
+
+
+![alt text](http://url/to/img.png)
+>>>>>>> Stashed changes

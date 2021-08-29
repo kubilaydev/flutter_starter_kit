@@ -27,8 +27,8 @@ flutter:
 
    # YOU CAN GROUP YOUR ASSETS IN THIS FOLDERS
   assets:
-    - assets/asset_folder1
-    - assets/asset_folder2
+    - assets/asset_folder1/
+    - assets/asset_folder2/
     
    # THIS IS MY FAVORITE FONTS, ITs A GIFT FOR YOU 
   fonts:

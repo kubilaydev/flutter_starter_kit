@@ -4,18 +4,19 @@ import '../../components/main_constants.dart';
 import '../../components/main_page/signin_appbar.dart';
 
 ///
-class DemoHomePage extends StatefulWidget {
+class DemoSecondPage extends StatefulWidget {
   ///
-  DemoHomePage({
+  DemoSecondPage({
     Key? key,
   }) : super(key: key);
 
   ///
+
   @override
-  _DemoHomePageState createState() => _DemoHomePageState();
+  _DemoSecondPageState createState() => _DemoSecondPageState();
 }
 
-class _DemoHomePageState extends State<DemoHomePage> {
+class _DemoSecondPageState extends State<DemoSecondPage> {
   int _counter = 0;
 
   void _incrementCounter() {

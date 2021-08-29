@@ -1,7 +1,9 @@
 import 'package:flutter/material.dart';
 
-/// SETUP YOUR THEME HERE
-/// ITS EADY TO USE !
+///
+final base = ThemeData.light();
+
+///
 ThemeData appTheme() {
   TextTheme _appTextTheme(TextTheme base) {
     return base.copyWith(
@@ -28,7 +30,8 @@ ThemeData appTheme() {
     );
   }
 
-  final base = ThemeData.light();
+//? SETUP YOUR THEME HERE
+//? ITS EADY TO USE !
 
   return base.copyWith(
     primaryColor: const Color(0XFF73D0FA),
